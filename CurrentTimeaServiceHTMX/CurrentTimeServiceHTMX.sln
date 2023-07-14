@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrentTimeServiceHTMX", "CurrentTimeServiceHTMX.csproj", "{BA80179F-0DDF-4C84-B45E-202F65C5C395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA80179F-0DDF-4C84-B45E-202F65C5C395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA80179F-0DDF-4C84-B45E-202F65C5C395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA80179F-0DDF-4C84-B45E-202F65C5C395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA80179F-0DDF-4C84-B45E-202F65C5C395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBDB62F2-6B27-4AB6-AC9C-8AB47ABC4A3E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Current Time Service</title>
+    <script src="https://unpkg.com/htmx.org"></script>
+</head>
+<body>
+    <h2 id="current-time"
+        hx-get="/api/current-time"
+        hx-trigger="load error"
+        hx-target="#current-time"
+        hx-swap="outerHTML"
+        hx-indicator="true">
+        Loading...
+    </h2>
+</body>
+</html>
